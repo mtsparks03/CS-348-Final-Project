@@ -1,0 +1,8 @@
+Data:
+https://www.kaggle.com/datasets/sergejnuss/united-states-cities-database
+https://www.kaggle.com/datasets/rankirsh/esports-earnings
+
+Tutorials:
+https://www.dbvis.com/thetable/sql-transactions-in-a-flask-crud-application/
+https://www.geeksforgeeks.org/profile-application-using-python-flask-and-mysql/
+https://pypi.org/project/Flask-MySQLdb/
